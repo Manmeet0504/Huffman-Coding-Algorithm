@@ -13,6 +13,6 @@ Huffman coding is a widely used data compression algorithm that enables efficien
 1. To view the project, visit the following url :-
 
 ```
-https://644574157ba8f973b205a847--regal-sfogliatella-7a298a.netlify.app/
+https://64cd60627fce355622f0a11b--tubular-pasca-7063e9.netlify.app/
 
 ```
